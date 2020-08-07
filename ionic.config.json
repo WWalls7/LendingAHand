@@ -1,5 +1,7 @@
 {
   "name": "LendingAHand",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
