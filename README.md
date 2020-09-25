@@ -4,7 +4,7 @@ This is a mobile application, backed by psychological research, to assist users 
 
 # Implementation
 
-The application is being made with Ionic using React Native, Typescript, CSS, and HTML. 
+The application is being made with Ionic using React Native, Typescript, SQLite, CSS, and HTML. 
 
 # Description
 
